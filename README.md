@@ -1,7 +1,10 @@
 # José Emmanuel Moyano López
 ### Analista Contable y de Datos Financieros | CPA
 
-📍 Guayaquil, Ecuador · ✉️ [moyanojosecba@gmail.com](mailto:moyanojosecba@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jose-moyanolopez) · 🐙 [GitHub]([COMPLETAR]) · 🌐 [Portafolio]([COMPLETAR])
+📍 Guayaquil, Ecuador · ✉️ [moyanojosecba@gmail.com](mailto:moyanojosecba@gmail.com) · 💼 [LinkedIn](www.linkedin.com/in/
+jose-moyano-lopez
+Nombre de la URL personalizada
+) · 🌐 [Portafolio]([COMPLETAR])
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
