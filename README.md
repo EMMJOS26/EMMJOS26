@@ -103,24 +103,3 @@ uniendo el criterio contable con la analítica para generar reportes que apoyen 
 
 ---
 
-## Idiomas
-
-- **Español:** Nativo
-- **Inglés:** Básico
-
----
-
-<details>
-<summary>📄 Versión PDF del CV</summary>
-
-- [Descargar CV en PDF](assets/CV_Jose_Moyano.pdf)
-
-</details>
-
-Estructura recomendada del repositorio
-
-[NOMBRE_REPO]/
-├── README.md               ← este CV
-├── assets/
-│   └── CV_Jose_Moyano.pdf  ← tu CV en PDF (opcional)
-└── LICENSE                 ← opcional
